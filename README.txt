@@ -42,3 +42,9 @@ VERSION 4 – IMPRESSUM & DATENSCHUTZ
 WICHTIG VOR VERÖFFENTLICHUNG:
 Die ladungsfähige Anschrift ist in impressum.html und datenschutz.html eingetragen.
 Datenschutz bei späteren YouTube-/Analytics-/Formular-Einbindungen erneut prüfen.
+
+V5:
+- Echtes Clicksbums-Logo eingebaut
+- Echte Screenshots der Anwendung ergänzt
+- Responsive Screenshot-Galerie hinzugefügt
+- Logo als Browser-Favicon referenziert
