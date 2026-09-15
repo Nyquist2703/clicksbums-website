@@ -32,3 +32,13 @@ V3:
 - echter PayPal-Supportlink eingebaut
 - frei wählbarer Kaffee-Betrag
 - Kontaktadresse support@clicksbums.com ergänzt
+
+
+VERSION 4 – IMPRESSUM & DATENSCHUTZ
+- impressum.html ergänzt
+- datenschutz.html ergänzt
+- Footer-Links aktualisiert
+
+WICHTIG VOR VERÖFFENTLICHUNG:
+Die ladungsfähige Anschrift ist in impressum.html und datenschutz.html eingetragen.
+Datenschutz bei späteren YouTube-/Analytics-/Formular-Einbindungen erneut prüfen.
