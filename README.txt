@@ -21,3 +21,14 @@ Noch bewusst offen:
 
 Hinweis:
 Die Seite ist bewusst statisch aufgebaut. Sie benoetigt keine Datenbank und kein CMS.
+
+
+V2-Ergaenzung:
+- support.html: freiwillige Support-/Kaffee-Seite
+- Support-Button auf der Startseite
+- Zahlungslink bewusst noch als Platzhalter
+
+V3:
+- echter PayPal-Supportlink eingebaut
+- frei wählbarer Kaffee-Betrag
+- Kontaktadresse support@clicksbums.com ergänzt
