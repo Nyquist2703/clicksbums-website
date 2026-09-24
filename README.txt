@@ -1,50 +1,38 @@
-KNUTS CLICKSBUMS WEBSITE V1
+KNUTS CLICKSBUMS WEBSITE – RELEASE 5.7
 
 Dateien:
 - index.html        Hauptseite
 - styles.css        Gestaltung
 - script.js         kleine Komfortfunktionen
-- assets/           Platz fuer spaetere Bilder, Logo, Screenshots
+- support.html      Support-/Kaffee-Seite
+- impressum.html    Impressum
+- datenschutz.html  Datenschutzerklärung
+- assets/           Logo, Screenshots und Handbuch
+- CNAME             www.clicksbums.com
 
-Lokal ansehen:
-1. ZIP entpacken.
-2. index.html doppelklicken.
-3. Die Seite oeffnet sich im Browser.
+Version 5.7
+- aktuelle 5.7-Kundenversion auf der Startseite
+- aktueller 5.7-Screenshot eingebunden
+- aktuelles 5.7-Handbuch als PDF eingebunden
+- Download auf das aktuelle GitHub-Release vorbereitet
+- YouTube-Kanal verlinkt
+- ™-Kennzeichnung für Knuts Clicksbums ergänzt
+- Support-/Kaffee-Seite bleibt erhalten
 
-Noch bewusst offen:
-- offizielles Logo und echte Screenshots einbauen
-- Download-Link setzen, sobald das Release-Paket bereit ist
-- Impressum und Datenschutz ergaenzen
-- YouTube-Link und ggf. Projektgeschichte erweitern
-- Hosting / GitHub Pages / STRATO-Webspace anbinden
-- clicksbums.de spaeter auf clicksbums.com weiterleiten
+WICHTIG:
+Die große Kundenzip wird nicht als normale Repository-Datei benötigt.
+Der Download-Button verweist auf das aktuellste GitHub-Release-Asset:
+Knuts_Clicksbums_5_7.zip
 
-Hinweis:
-Die Seite ist bewusst statisch aufgebaut. Sie benoetigt keine Datenbank und kein CMS.
+Vor der Veröffentlichung:
+1. Im GitHub-Repository einen Release anlegen.
+2. Die Kunden-ZIP als Release-Asset mit exakt diesem Dateinamen hochladen:
+   Knuts_Clicksbums_5_7.zip
+3. Danach GitHub Pages veröffentlichen bzw. die bestehende Seite aktualisieren.
 
+Datenschutz:
+Die Website verlinkt nur extern auf YouTube und bettet keinen YouTube-Player ein.
+Die Datenschutzerklärung sollte erneut geprüft werden, wenn künftig externe Inhalte
+wie Videos, Analytics oder Formulare eingebettet werden.
 
-V2-Ergaenzung:
-- support.html: freiwillige Support-/Kaffee-Seite
-- Support-Button auf der Startseite
-- Zahlungslink bewusst noch als Platzhalter
-
-V3:
-- echter PayPal-Supportlink eingebaut
-- frei wählbarer Kaffee-Betrag
-- Kontaktadresse support@clicksbums.com ergänzt
-
-
-VERSION 4 – IMPRESSUM & DATENSCHUTZ
-- impressum.html ergänzt
-- datenschutz.html ergänzt
-- Footer-Links aktualisiert
-
-WICHTIG VOR VERÖFFENTLICHUNG:
-Die ladungsfähige Anschrift ist in impressum.html und datenschutz.html eingetragen.
-Datenschutz bei späteren YouTube-/Analytics-/Formular-Einbindungen erneut prüfen.
-
-V5:
-- Echtes Clicksbums-Logo eingebaut
-- Echte Screenshots der Anwendung ergänzt
-- Responsive Screenshot-Galerie hinzugefügt
-- Logo als Browser-Favicon referenziert
+Die Seite ist bewusst statisch aufgebaut. Sie benötigt keine Datenbank und kein CMS.
