@@ -19,8 +19,10 @@
 .screenshot-comparison .screenshot-card figcaption{align-self:stretch}
 @media(max-width:620px){.screenshot-comparison{grid-template-columns:1fr}.screenshot-comparison .screenshot-card img{max-height:440px}}
 
-/* YouTube section on the light paper background */
-.alt .btn.secondary{color:var(--paperink);background:#fff;border-color:#657482}
-.alt .video-card{background:#fff;border-color:#d6dee5}
-.alt .video-card p{color:#4b5863}
-.alt .video-card p strong{color:var(--paperink)}
+/* YouTube section: centered channel action and readable teaser card */
+.youtube-copy .actions{justify-content:center}
+.alt .video-card{background:#111b24;border-color:#2a3a48}
+.alt .video-card p{color:#c4d0d9}
+.alt .video-card p strong{color:#eef4f8}
+.alt .video-card a{display:inline-block;margin-top:6px;color:#ffd27a;font-weight:800}
+.alt .video-card a:hover{color:#fff}
