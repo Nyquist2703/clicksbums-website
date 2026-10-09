@@ -1,4 +1,4 @@
-KNUTS CLICKSBUMS WEBSITE – RELEASE 5.7
+KNUTS CLICKSBUMS WEBSITE – VERSION 5.9 (LOKALER ENTWURF)
 
 Dateien:
 - index.html        Hauptseite
@@ -10,29 +10,28 @@ Dateien:
 - assets/           Logo, Screenshots und Handbuch
 - CNAME             www.clicksbums.com
 
-Version 5.7
-- aktuelle 5.7-Kundenversion auf der Startseite
-- aktueller 5.7-Screenshot eingebunden
-- aktuelles 5.7-Handbuch als PDF eingebunden
-- Download auf das aktuelle GitHub-Release vorbereitet
-- YouTube-Kanal verlinkt
-- ™-Kennzeichnung für Knuts Clicksbums ergänzt
-- Support-/Kaffee-Seite bleibt erhalten
+Website-Änderungen für Version 5.9:
+- Startseite und Funktionsbeschreibung auf 5.9 aktualisiert
+- neuer 5.9-Screenshot und Vergleich mit der bisherigen Ansicht
+- YouTube-Link auf https://www.youtube.com/@KnutsClicksbums aktualisiert
+- Clicksbums-Teaser extern verlinkt (ohne eingebetteten Player)
+- globale Audiofunktionen, Windows-Sound-/Anzeigeeinstellungen, Snipping Tool
+  und frei wählbare Farben beschrieben
+- Handbuch 5.9 erstellt: 5.7-Grundhandbuch plus klar markierter 5.9-Nachtrag
+- kein YouTube-Player eingebettet; der Kanal wird nur extern verlinkt
 
-WICHTIG:
-Die große Kundenzip wird nicht als normale Repository-Datei benötigt.
-Der Download-Button verweist auf das aktuellste GitHub-Release-Asset:
-Knuts_Clicksbums_5_7.zip
+Noch offen, bevor die Website veröffentlicht wird:
+- Das Kundenpaket liegt im Projektordner und besteht die ZIP-Integritätsprüfung.
+  Es muss als GitHub-Release-Asset mit dem Namen
+  `Knuts Clicksbums Kundenversion.zip` bereitgestellt werden.
+- Den externen YouTube-Link und die fertige Seite vor Veröffentlichung prüfen.
 
-Vor der Veröffentlichung:
-1. Im GitHub-Repository einen Release anlegen.
-2. Die Kunden-ZIP als Release-Asset mit exakt diesem Dateinamen hochladen:
-   Knuts_Clicksbums_5_7.zip
-3. Danach GitHub Pages veröffentlichen bzw. die bestehende Seite aktualisieren.
+Die Kundenzip wird als Asset eines GitHub-Releases bereitgestellt, nicht als
+normale Datei im Website-Repository.
 
 Datenschutz:
 Die Website verlinkt nur extern auf YouTube und bettet keinen YouTube-Player ein.
-Die Datenschutzerklärung sollte erneut geprüft werden, wenn künftig externe Inhalte
-wie Videos, Analytics oder Formulare eingebettet werden.
+Die Datenschutzerklärung erneut prüfen, falls später Videos, Analytics oder
+Formulare eingebettet werden.
 
-Die Seite ist bewusst statisch aufgebaut. Sie benötigt keine Datenbank und kein CMS.
+Die Seite ist statisch aufgebaut und benötigt keine Datenbank oder CMS.
