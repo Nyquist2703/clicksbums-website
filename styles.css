@@ -18,3 +18,9 @@
 .screenshot-comparison .screenshot-card{display:flex;flex-direction:column;align-items:center}
 .screenshot-comparison .screenshot-card figcaption{align-self:stretch}
 @media(max-width:620px){.screenshot-comparison{grid-template-columns:1fr}.screenshot-comparison .screenshot-card img{max-height:440px}}
+
+/* YouTube section on the light paper background */
+.alt .btn.secondary{color:var(--paperink);background:#fff;border-color:#657482}
+.alt .video-card{background:#fff;border-color:#d6dee5}
+.alt .video-card p{color:#4b5863}
+.alt .video-card p strong{color:var(--paperink)}
